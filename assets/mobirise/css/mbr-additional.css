@@ -1122,11 +1122,12 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/map-home-1-850x604.jpeg");
 }
 .cid-s2CjEfS41H H1 {
-  color: #232323;
+  color: #073b4c;
 }
 .cid-s2CjEfS41H .mbr-text,
 .cid-s2CjEfS41H .mbr-section-btn {
-  color: #232323;
+  color: #073b4c;
+  text-align: left;
 }
 .cid-s2OYn6eWuc {
   padding-top: 60px;
@@ -4072,83 +4073,29 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #232323;
 }
-.cid-s36ajx61kW {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-s3iAFdcNbn {
+  background: #ffffff;
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #ffffff, #149dcc);
 }
-.cid-s36ajx61kW .mbr-section-subtitle {
-  color: #767676;
+.cid-s3iAFdcNbn .image-block {
+  margin: auto;
 }
-.cid-s36ajx61kW .container-table {
+.cid-s3iAFdcNbn .mbr-figure {
   margin: 0 auto;
 }
-.cid-s36ajx61kW .scroll {
-  overflow-x: auto;
-  padding: 0;
+.cid-s3iAFdcNbn figcaption {
+  position: relative;
 }
-.cid-s36ajx61kW .dataTables_wrapper {
-  display: block;
+.cid-s3iAFdcNbn figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
-.cid-s36ajx61kW .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-s36ajx61kW .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-s36ajx61kW table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
-  margin-bottom: 0;
-}
-.cid-s36ajx61kW table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-s36ajx61kW table th:hover {
-  background: #cccccc;
-  color: #000000;
-}
-.cid-s36ajx61kW table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-s36ajx61kW table.table {
-  background: #ffffff;
-}
-.cid-s36ajx61kW .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-s36ajx61kW .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-s36ajx61kW .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-s36ajx61kW .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-s36ajx61kW .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-s36ajx61kW .dataTables_filter {
-    text-align: center;
-  }
-  .cid-s36ajx61kW .dataTables_filter input {
+@media (max-width: 768px) {
+  .cid-s3iAFdcNbn .image-block {
     width: 100% !important;
-    margin-left: 0 !important;
   }
 }
 .cid-s2C6BsHjfB .navbar {
