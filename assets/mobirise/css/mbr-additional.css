@@ -2702,40 +2702,6 @@ section.lazy-placeholder:after {
   width: 100%;
   overflow: hidden;
 }
-.cid-s2P5eDXj7P {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-s2P5eDXj7P .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-s2P5eDXj7P h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-s2P5eDXj7P p {
-  color: #767676;
-  text-align: left;
-}
-.cid-s2P5eDXj7P .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-s2P5eDXj7P .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-s2P5eDXj7P .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
 .cid-s2ZPnxKotV {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3229,8 +3195,6 @@ section.lazy-placeholder:after {
   background-color: #232323;
 }
 .cid-s362Jb8GYt {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/rm-bm-14a-2000x1812.jpeg");
 }
 .cid-s362Jb8GYt .mbr-text,
@@ -5925,7 +5889,7 @@ section.lazy-placeholder:after {
   background-color: #232323;
 }
 .cid-s38nVDtHL0 {
-  background: #cccccc;
+  background: #efefef;
   padding-top: 120px;
   padding-bottom: 75px;
 }
